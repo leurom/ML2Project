@@ -1,7 +1,7 @@
 ﻿# ML2Project
  
  Introduction
- First, I tried to train a neural network for object recognition with X-Ray data from baggages. The goal was to detect illicit objects like knives, razor blades or handguns. Since I had problems preparing the images and labels for modeling, I decided to change the dataset and work with the COCO dataset. 
+ First, I tried to train a neural network for object recognition with X-Ray data from baggages(Model.ipynb). The goal was to detect illicit objects like knives, razor blades or handguns. Since I had problems preparing the images and labels for modeling, I decided to change the dataset and work with the COCO dataset. In the ML2Project.ipynb you can find the code for the object detection with the COCO dataset.
  
  Project Goal/Motivation:
 The goal of this project is to train a machine learning model to classify images using the COCO (Common Objects in Context) dataset. The motivation behind the project is to develop a model that can accurately identify objects in images and improve its performance through training and validation.
